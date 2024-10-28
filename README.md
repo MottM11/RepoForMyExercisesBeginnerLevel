@@ -1,2 +1,2 @@
-# RepoForMyExercisesBeginnerLevel
+# RepoForMyExercises
 Using GoogleColab 
